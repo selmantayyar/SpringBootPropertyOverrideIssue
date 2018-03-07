@@ -1,4 +1,4 @@
-package com.bootissue.SpringBootIssue;
+package com.bootissue.poc;
 
 import static org.junit.Assert.assertEquals;
 

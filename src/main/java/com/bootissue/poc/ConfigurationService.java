@@ -1,4 +1,4 @@
-package com.bootissue.SpringBootIssue;
+package com.bootissue.poc;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;

@@ -1,4 +1,4 @@
-package com.bootissue.SpringBootIssue;
+package com.bootissue.poc;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
